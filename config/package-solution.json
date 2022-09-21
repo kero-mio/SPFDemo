@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "spf-demo-client-side-solution",
+    "id": "0bd68bb3-8d5d-4d1d-aa27-ee14cd1ad34c",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.15.2"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "SPFDemo description"
+      },
+      "longDescription": {
+        "default": "SPFDemo description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "spf-demo Feature",
+        "description": "The feature that activates elements of the spf-demo solution.",
+        "id": "753b9650-feca-4098-894f-3a1385988acb",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/spf-demo.sppkg"
+  }
+}

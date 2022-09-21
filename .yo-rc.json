@@ -1,0 +1,16 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "version": "1.15.2",
+    "libraryName": "spf-demo",
+    "libraryId": "0bd68bb3-8d5d-4d1d-aa27-ee14cd1ad34c",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "SPFDemo",
+    "solutionShortDescription": "SPFDemo description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}
